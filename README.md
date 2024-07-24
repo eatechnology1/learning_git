@@ -1,7 +1,13 @@
 # Aprendizaje de Git
-Bienvenido a mi repositorio de aprendizaje de Git. Aquí documentaré mi progreso y compartiré los comandos básicos que he aprendido. Mi nombre es **Alexander Calderon**, y puedes encontrar más sobre mí y mis servicios en [ea-tech.site](https://ea-tech.site/).
 
-![alt text](https://ea-tech.site/wp-content/uploads/2024/07/learnig_git.jpg)
+<p align="justify">
+Bienvenido a mi repositorio de aprendizaje de Git. Aquí documentaré mi progreso y compartiré los comandos básicos que he aprendido. Mi nombre es <strong>Alexander Calderon</strong>, y puedes encontrar más sobre mí y mis servicios en <a href="https://ea-tech.site/">ea-tech.site</a>.
+</p>
+
+<p align="center">
+    <img src="https://ea-tech.site/wp-content/uploads/2024/07/learnig_git.jpg" alt="Aprendizaje de Git">
+</p>
+
 
 ## Introducción
 
