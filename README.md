@@ -302,8 +302,10 @@ Clona un repositorio remoto en una rama específica.
 
 <p align="justify">
 Gracias por visitar mi repositorio de aprendizaje de Git. Espero que esta guía te haya sido útil en tu camino para dominar Git y gestionar tus proyectos de manera más eficiente. 
-
+</p>
+<p align="justify">
 Si tienes alguna pregunta o sugerencia, no dudes en dejar un comentario o ponerte en contacto conmigo. Estoy aquí para ayudarte a aprender y crecer en el mundo del desarrollo.
-
+</p>
+<p align="justify">
 Te invito a visitar mi página web <a href="https://ea-tech.site/">ea-tech.site</a>. para conocer más sobre los servicios que ofrezco. ¡Gracias nuevamente por tu visita y feliz aprendizaje!
 </p>
