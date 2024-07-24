@@ -10,8 +10,9 @@ Bienvenido a mi repositorio de aprendizaje de Git. Aquí documentaré mi progres
 
 
 ## Introducción
-
+<p align="justify">
 Este repositorio está diseñado para guiarte en el uso de Git desde cero, cubriendo los comandos esenciales y sus usos. Espero que te sea útil en tu camino para dominar Git.
+</p>
 
 ## Comandos Básicos de Git
 
